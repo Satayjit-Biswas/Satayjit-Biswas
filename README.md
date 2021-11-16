@@ -38,7 +38,7 @@
 1. Live Demo: https://thirsty-saha-83cc35.netlify.app/
 2. Github Code: https://github.com/Satayjit-Biswas/quick-lerner.git
 3. Technology : React JS, Bootstrap CSS
-![ss](https://smabtahinoor.vercel.app/images/portfolio/cortelink.png)
+![ss](https://i.ibb.co/jgsbxhY/screencapture-thirsty-saha-83cc35-netlify-app-2021-11-17-00-21-10.png)
 </details>
 
 
