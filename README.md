@@ -52,12 +52,42 @@
 
 ## GitHub stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=onedark)
 
 
 # 🚀 Some Projects
 
 ## 📢 React Projects
+<details>
+<summary>Bike Store e-commerce Website</summary>
+
+1. Live Demo: https://bike-store-a5d20.web.app/
+2. Github Code: https://github.com/Satayjit-Biswas/Bike-Store.git
+3. Technology : React JS, Bootstrap CSS , firebase , mongodb , node
+![ss](https://i.ibb.co/0MzgqsZ/screencapture-bike-store-a5d20-web-app-2021-11-17-01-05-46.png)
+</details>
+
+<details>
+
+<details>
+<summary>Ural Travel Website</summary>
+
+1. Live Demo: https://ural-64499.web.app/
+2. Github Code: https://github.com/Satayjit-Biswas/ural
+3. Technology : React JS, Bootstrap CSS , firebase , mongodb , node
+![ss](https://i.ibb.co/ftDFcn4/screencapture-ural-64499-web-app-2021-11-17-01-03-31-1.png)
+</details>
+
+<details>
+
+<details>
+<summary>medica Health care Website</summary>
+
+1. Live Demo: https://medica-390f6.web.app/
+2. Github Code: https://github.com/Satayjit-Biswas/medica.git
+3. Technology : React JS, Bootstrap CSS
+![ss](https://i.ibb.co/Fgh9NN6/screencapture-medica-390f6-web-app-2021-11-17-00-56-42.png)
+</details>
 
 <details>
 <summary>Quick Learner Education Website</summary>
@@ -67,5 +97,3 @@
 3. Technology : React JS, Bootstrap CSS
 ![ss](https://i.ibb.co/jgsbxhY/screencapture-thirsty-saha-83cc35-netlify-app-2021-11-17-00-21-10.png)
 </details>
-
-
