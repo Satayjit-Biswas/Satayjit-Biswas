@@ -26,6 +26,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satayjitbiswas1@gmail.com)
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=dark)
 
 
 # 🚀 Some Projects
