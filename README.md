@@ -50,9 +50,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satayjit-Biswas&layout=compact)](https://github.com/Satayjit-Biswas/github-readme-stats)
 
-## codeforces stats:
+## GitHub stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=tokyonight)
 
 
 # 🚀 Some Projects
