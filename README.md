@@ -52,7 +52,7 @@
 
 ## GitHub stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Satayjit-Biswas&show_icons=true&theme=merko)
 
 
 # 🚀 Some Projects
@@ -67,7 +67,6 @@
 ![ss](https://i.ibb.co/0MzgqsZ/screencapture-bike-store-a5d20-web-app-2021-11-17-01-05-46.png)
 </details>
 
-<details>
 
 <details>
 <summary>Ural Travel Website</summary>
@@ -78,7 +77,6 @@
 ![ss](https://i.ibb.co/ftDFcn4/screencapture-ural-64499-web-app-2021-11-17-01-03-31-1.png)
 </details>
 
-<details>
 
 <details>
 <summary>medica Health care Website</summary>
