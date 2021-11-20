@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Myself
 - 🏫 I'm currently doing B.Sc. [Green University of Bangladesh](https://green.edu.bd/)
-- 🌱 I'm currently Learning **React, Node, Express & MongoDB** 🤣
+- 🌱 I'm currently Learning **React, Node, Express & MongoDB** :heart_eyes: 😍
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: **Stack Development**
 - 😂 Fun Fact: I love to Fishing
