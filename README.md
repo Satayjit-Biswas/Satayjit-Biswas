@@ -10,7 +10,7 @@
 - 💻 Most used code `console.log()`
 - 🎯 2021 Goals: **Stack Development**
 - 😂 Fun Fact: I love to Fishing
-- 📫 My Portfolio: [Satayjit Biswas](https://coderchef.net/templatemonster/coderchef/)
+- 📫 My Portfolio: [Satayjit Biswas]([https://coderchef.net/templatemonster/coderchef/](https://illustrious-licorice-26fa75.netlify.app/))
 
 
 
