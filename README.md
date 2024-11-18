@@ -8,7 +8,7 @@
 - 🏫 I'm currently doing B.Sc. [Green University of Bangladesh](https://green.edu.bd/)
 - 🌱 I'm currently Learning **React, Node, Express & MongoDB** :heart_eyes: 😍
 - 💻 Most used code `console.log()`
-- 🎯 2021 Goals: **Stack Development**
+- 🎯 2025 Goals: **Stack Development**
 - 😂 Fun Fact: I love to Fishing
 - 📫 My Portfolio: [Satayjit Biswas](https://illustrious-licorice-26fa75.netlify.app/)
 
